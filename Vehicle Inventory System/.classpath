@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.23.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.util.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.util_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.servlet.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.servlet_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.server.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.server_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.security.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.security_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.io.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.io_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.http.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.http_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.continuation.source_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.jetty.continuation_9.4.7.v20170914.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.equinox.http.jetty.source_3.4.0.v20170503-2025.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/org.eclipse.equinox.http.jetty_3.4.0.v20170503-2025.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/javax.servlet.source_3.1.0.v201410161800.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/javax.servlet.jsp.source_2.2.0.v201112011158.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/javax.servlet.jsp_2.2.0.v201112011158.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/eclipse-dsl-oxygen-3-rc3-win32-x86_64/eclipse/plugins/javax.servlet_3.1.0.v201410161800.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
